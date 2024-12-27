@@ -13,7 +13,7 @@ console.log("1" +8 * 2);
 console.log(9*8 + "9");
 
 
-let stri1 = "Umama ";
+let stri1 = "Umama";
 let stri2 = "Hello";
 let stri3 = stri1 + stri2;
 console.log(stri3);
