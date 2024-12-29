@@ -10,3 +10,8 @@ console.log(typeof valueInNo);
 console.log(someNo);
 
 
+let changData = true 
+let changedDate = Number(changData);
+console.log(typeof changedDate)
+console.log(changedDate);
+
