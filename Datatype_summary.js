@@ -52,5 +52,13 @@ const slly = Symbol("999th");
 const anotherslly = ("999th");
 console.log(slly === anotherslly); //Synbol
 
+let arr = [ "books, library, students"];
+console.log(arr); //Arry
 
 
+let obj = {
+    name:"umama",
+    age: 16
+}; //Object
+
+console.log(obj);
