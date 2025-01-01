@@ -52,13 +52,29 @@ const slly = Symbol("999th");
 const anotherslly = ("999th");
 console.log(slly === anotherslly); //Synbol
 
-let arr = [ "books, library, students"];
-console.log(arr); //Arry
+// let arr = [ "books, library, students"];
+// console.log(arr); //Arry
 
 
-let obj = {
-    name:"umama",
-    age: 16
-}; //Object
+// let obj = {
+//     name:"umama",
+//     age: 16
+// }; //Object
 
-console.log(obj);
+// console.log(obj);
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Stick(Primitive) , Heak(Non primitive)
+
+
+let userName = "Umama";
+let anotherName = userName
+
+anotherName = "Fatima";
+console.log(userName);
+
+console.log(anotherName);
+
+///
+
+
