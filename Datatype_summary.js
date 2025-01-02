@@ -77,4 +77,8 @@ console.log(anotherName);
 
 ///
 
+let nam ;
+console.log(nam);
+
+
 
