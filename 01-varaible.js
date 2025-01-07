@@ -13,3 +13,6 @@ Prefer not to use var
 because of issue in block scope and functional scope
 */
 console.table([accountId, accountEmail, accountPassword, bccountCity, ccountCity, accountState])
+
+let worl = "Hello"
+let name = "Umama fatima"
