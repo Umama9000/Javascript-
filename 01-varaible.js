@@ -16,3 +16,5 @@ console.table([accountId, accountEmail, accountPassword, bccountCity, ccountCity
 
 let worl = "Hello"
 let name = "Umama fatima"
+
+//console.table([accountId, accountEmail, accountPassword,  bccount//
